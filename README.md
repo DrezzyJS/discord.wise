@@ -5,7 +5,7 @@
 ## Instalation
 
 ```js
-npm i --save discord.wise
+npm i discord.wise
 ```
 
 ## Simple Usage
