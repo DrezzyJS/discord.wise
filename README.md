@@ -1,6 +1,6 @@
 # Discord Wise
 
-- This is a simple way to consume the discord api
+- This is a simple way to consume the discord api , (Npm Url)[https://npmjs.com/package/discord.wise]
 
 ## Instalation
 
