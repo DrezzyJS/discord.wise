@@ -18,9 +18,6 @@ class WebSocketManager {
 
     //Receiving Payload
 
-    function receiveMessage(message){
-      
-    }
     socket.on("message", function(message) {
       //Settings
 
