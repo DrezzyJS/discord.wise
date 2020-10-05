@@ -1,0 +1,23 @@
+{
+  "name": "discord.wise",
+  "version": "1.0.0",
+  "description": "This is a simple way to consume the discord api",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "ws": "^7.3.1",
+    "axios": "^0.20.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "discordapi",
+    "discordbot",
+    "discord.js"
+  ]
+}
