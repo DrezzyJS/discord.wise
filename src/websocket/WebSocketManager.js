@@ -56,7 +56,7 @@ class WebSocketManager {
 
       if (this.op === 11) {
         setInterval(() => {
-          socket.send(JSON.stringify(this._identify));
+          socket.send(JSON.stringify(this.connection));
         }, 41250);
       }
 
